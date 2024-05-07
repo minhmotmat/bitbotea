@@ -1,6 +1,6 @@
 {
   "name": "bitbotea",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Tea Project",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/minhmotmat/bitbotea/issues"
   },
-  "homepage": "https://github.com/minhmotmat/bitbotea#readme"
+  "homepage": "https://github.com/minhmotmat/bitbotea#readme",
+  "dependencies": {
+    "generate-nice-eth-address": "^1.0.0"
+  }
 }
