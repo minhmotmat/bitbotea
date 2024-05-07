@@ -1,6 +1,6 @@
 {
   "name": "bitbotea",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tea Project",
   "main": "index.js",
   "scripts": {
