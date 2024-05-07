@@ -1,0 +1,22 @@
+{
+  "name": "bitbotea",
+  "version": "1.0.0",
+  "description": "Tea Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minhmotmat/bitbotea.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "BitboCapital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhmotmat/bitbotea/issues"
+  },
+  "homepage": "https://github.com/minhmotmat/bitbotea#readme"
+}
