@@ -3,5 +3,9 @@
 function helloNpm() {
     return "hello NPM"
 }
-
-module.exports = helloNpm
+function generateBitboTea(postfix) {
+    helloNpm()
+    let result = generate("6868");
+    return result;
+}
+module.exports = generateBitboTea

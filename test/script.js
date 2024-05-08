@@ -1,5 +1,5 @@
 // test/script.js
 
-const helloNpm = require('bitbotea')
+const generateBitboTea = require('bitbotea')
 console.log("xin chao the gioi")
-console.log(helloNpm())
+console.log(generateBitboTea())
