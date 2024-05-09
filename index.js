@@ -1,5 +1,5 @@
 //index.js
-
+const generate = require("generate-nice-eth-address")
 function helloNpm() {
     return "hello NPM"
 }
